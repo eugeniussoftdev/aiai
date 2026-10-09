@@ -1,7 +1,5 @@
 # 01 — Anthropic SDK Setup
 
-ExamPro lab: **Anthropic SDK Setup**.
-
 Runnable Messages API examples from Anthropic’s [Working with Messages](https://docs.anthropic.com/en/docs/build-with-claude/working-with-messages) guide, plus stop-reason inspection, streaming, and async.
 
 ## Prerequisites
@@ -42,4 +40,3 @@ See [notes.md](notes.md) for the `stop_reason` cheat sheet.
 - [Python SDK](https://platform.claude.com/docs/en/api/sdks/python)
 - [Streaming Messages](https://docs.anthropic.com/en/api/messages-streaming)
 - [Vision](https://docs.anthropic.com/en/docs/build-with-claude/vision)
-- [ExamPro CCA-F](https://www.exampro.co/cca-f)

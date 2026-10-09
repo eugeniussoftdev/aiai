@@ -1,6 +1,6 @@
 # aiai — CCA-F Learning Path
 
-Personal study repo for **Claude Certified Architect – Foundations (CCA-F)**, following [ExamPro CCA-F](https://www.exampro.co/cca-f).
+Personal study repo for **Claude Certified Architect – Foundations (CCA-F)**.
 
 ## Setup
 
@@ -19,9 +19,9 @@ cp .env.example .env
 uv run python 01-anthropic-sdk-setup/01_basic_message.py
 ```
 
-## Learning path (ExamPro-aligned)
+## Learning path
 
-| Folder | ExamPro section |
+| Folder | Topic |
 | --- | --- |
 | [01-anthropic-sdk-setup](01-anthropic-sdk-setup/) | Anthropic SDK Setup |
 | [02-agent-sdk-setup](02-agent-sdk-setup/) | Agent SDK Setup |
@@ -41,4 +41,3 @@ uv run python 01-anthropic-sdk-setup/01_basic_message.py
 - [Streaming Messages](https://docs.anthropic.com/en/api/messages-streaming)
 - [Vision](https://docs.anthropic.com/en/docs/build-with-claude/vision)
 - [Get an API key](https://console.anthropic.com/)
-- [ExamPro CCA-F](https://www.exampro.co/cca-f)
